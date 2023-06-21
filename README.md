@@ -1,2 +1,1 @@
-# coneism.com
-The betas for the coneism.com website
+This is where the coneism.com website betas will be put.
